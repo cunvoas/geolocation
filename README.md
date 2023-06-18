@@ -6,7 +6,7 @@ Les deux premières associations à l'utiliser sont Deul'Air et LM Oxygène.
 
 
 ## Github pages 
-Cette page contients une version déployée et consolidées. Les fichiers de données sont statiques
+Cette page contient une version déployée et consolidée. Les fichiers de données GeoJSon sont statiques
    https://cunvoas.github.io/geolocation/
 
 ## Code Source
@@ -17,5 +17,5 @@ Dans un soucis de partage de compétances, les codes sources des applications ba
  Il n'y a pas de manuel d'installation pour le moment mais elles sont disponibles facilement sur le net.
  
 ## recherche de volontaires
- Un developpeur bénévole Front VueJS est recherché.
+ Un developpeur bénévole Front VueJS est recherché dans le but d'implémenter le futur module de saisie des parcs.
  
