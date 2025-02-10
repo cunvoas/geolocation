@@ -17,5 +17,4 @@ Dans un soucis de partage de compétances, les codes sources des applications ba
  Il n'y a pas de manuel d'installation pour le moment mais elles sont disponibles facilement sur le net.
  
 ## recherche de volontaires
- Un developpeur bénévole Front VueJS est recherché dans le but d'implémenter le futur module de saisie des parcs.
- 
+ Nous recherchons des developpeurs bénévoles Vue3 pour le site publique et SpringBoot, Thymleaf, PostgreSQL+postgis pour l'application d'administration.
