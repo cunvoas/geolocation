@@ -1,0 +1,67 @@
+{
+  "name": "Analyse des Parcs et Jardins selon l'OMS",
+  "short_name": "Parcs & Jardins",
+  "description": "Application d'analyse géographique des parcs et jardins selon les standards OMS",
+  "theme_color": "#73aa45",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "https://autmel.github.io/parcs-et-jardins/",
+  "start_url": "https://autmel.github.io/parcs-et-jardins/",
+  "icons": [
+    {
+      "src": "/parcs-et-jardins/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/parcs-et-jardins/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/parcs-et-jardins/icons/icon-maskable-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/parcs-et-jardins/icons/icon-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/parcs-et-jardins/icons/screenshot-1.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/parcs-et-jardins/icons/screenshot-2.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "categories": ["health", "social", "utilities"],
+  "shortcuts": [
+    {
+      "name": "Carte",
+      "short_name": "Carte",
+      "description": "Ouvrir la carte interactive",
+      "url": "/parcs-et-jardins/?tab=carte",
+      "icons": [
+        {
+          "src": "/parcs-et-jardins/icons/icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
