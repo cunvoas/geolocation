@@ -1,1 +1,0 @@
-import{t as e}from"./AppCarte-D1fgbP8a.js";export default e();
